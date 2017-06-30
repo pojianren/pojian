@@ -1,1 +1,2 @@
 mmnhz|冷读启动|我猜你是个女汉子，虽然外表看起来是萌妹
+test|场景惯例|@对方:xxxx # @我方: yyyy  # @我方: zzz # @对方: kkkkkkk  # @我方: xxxxx
